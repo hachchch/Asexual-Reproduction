@@ -1,4 +1,4 @@
 {
-        "name": "Global uniques",
-        "uniques": ["[+150]% XP gained from combat","[Infantry] units gain the [Infantry Uniques] promotion","[Tank] units gain the [Tank Uniques] promotion","[Anti-Tank Gun] units gain the [Anti-Tank Uniques] promotion","[-100]% [Production]","[-100]% [Science]"]
+        "name": "Scenario rules",
+        "uniques": ["[+150]% XP gained from combat <for [All] units>","[Infantry] units gain the [Infantry Uniques] promotion","[Tank] units gain the [Tank Uniques] promotion","[Anti-Tank Gun] units gain the [Anti-Tank Uniques] promotion","[-100]% [Production]","[-100]% [Science]"]
 }
