@@ -6,8 +6,9 @@
 		"science": 3,
 		"gold": 3,
 		"culture": 1,
-		"cityStrength": 2,
+		"cityStrength": 50,
+		"cityHealth": 800,
 		"cost": 1,
-		"uniques": ["Indicates the capital city","Free [Tank] appears <upon declaring war with a major Civilization>"]
+		"uniques": ["Indicates the capital city","[9] free [Tank] units appear"]
         }
 ]
