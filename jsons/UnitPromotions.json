@@ -1,6 +1,6 @@
 [
         {
                 "name": "Tank Uniques",
-                "uniques": ["Free [Tank] appears <upon defeating a [All] unit>","Self-destructs when attacking <upon defeating a [All] unit>"],
+                "uniques": ["Free [Tank] appears <upon defeating a [Infantry] unit>","Free [Infantry] appears <upon being defeated>"],
         }
 ]
