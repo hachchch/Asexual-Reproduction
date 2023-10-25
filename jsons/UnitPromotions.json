@@ -3,6 +3,6 @@
                 "name": "Blitzkrieg",
                 "row": 999,
                 "column": 0,
-                "uniques": ["Free [Tank] appears <upon defeating a [All] unit>","Heal this unit by [-49] HP <upon defeating a [All] unit>"],
+                "uniques": ["Free [Tank] appears <upon defeating a [All] unit>"],
         }
 ]
