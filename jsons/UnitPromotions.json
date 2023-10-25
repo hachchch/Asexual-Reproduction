@@ -1,0 +1,8 @@
+[
+        {
+                "name": "Blitzkrieg",
+                "row": 999,
+                "column": 0,
+                "uniques": ["Free [Tank] appears <upon defeating a [All] unit> <by consuming this unit>"],
+        },
+]
