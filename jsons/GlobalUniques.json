@@ -1,4 +1,4 @@
 {
         "name": "Tank System",
-        "uniques": ["[Tank] units gain the [Blitzkrieg] promotion","Free [Tank] appears <upon declaring war with a major Civilization>"]
+        "uniques": ["[Tank] units gain the [Tank Uniques] promotion","Free [Tank] appears <upon declaring war with a major Civilization>"]
 }
