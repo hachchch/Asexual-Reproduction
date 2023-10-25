@@ -2,5 +2,9 @@
         {
                 "name": "Tank Uniques",
                 "uniques": ["Free [Tank] appears <upon defeating a [Infantry] unit>","Free [Infantry] appears <upon being defeated>"],
+        },
+        {
+                "name": "Anti-Tank Uniques",
+                "uniques": ["Free [Anti-Tank] appears <upon defeating a [Infantry] unit>","Free [Infantry] appears <upon being defeated>"],
         }
 ]
