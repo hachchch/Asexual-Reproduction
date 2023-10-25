@@ -21,7 +21,7 @@
 		"requiredTech": "Combined Arms",
 		"requiredResource": "Oil",
 		"upgradesTo": "Modern Armor",
-		"uniques": ["Can move after attacking","Never appears as a Barbarian unit"],
+		"uniques": ["Can move after attacking","Never appears as a Barbarian unit","No movement cost to pillage","Damage is ignored when determining unit Strength","[1] additional attacks per turn <during a Golden Age>"],
 		"attackSound": "tankshot"
 	},
 ]
