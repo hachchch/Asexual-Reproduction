@@ -6,5 +6,9 @@
         {
                 "name": "Anti-Tank Uniques",
                 "uniques": ["[-1] Sight","Free [Anti-Tank Gun] appears <upon defeating a [Infantry] unit>","Free [Infantry] appears <upon being defeated>"],
+        },
+        {
+                "name": "Infantry Uniques",
+                "uniques": ["Free [Infantry] appears <upon defeating a [Infantry] unit>"],
         }
 ]
