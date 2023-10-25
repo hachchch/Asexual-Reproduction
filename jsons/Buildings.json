@@ -7,7 +7,7 @@
 		"gold": 3,
 		"culture": 1,
 		"cityStrength": -2,
-		"cityHealth": 400,
+		"cityHealth": 800,
 		"cost": 1,
 		"uniques": ["Indicates the capital city","[4] free [Tank] units appear","[2] free [Anti-Tank Gun] units appear","[1] free [Bomber] units appear","[1] free [Great General] units appear"]
         }
