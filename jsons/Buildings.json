@@ -8,7 +8,7 @@
 		"gold": 3,
 		"culture": 1,
 		"cityStrength": -2,
-		"cityHealth": 600,
+		"cityHealth": 1000,
 		"cost": 1,
 		"uniques": ["Gain a free [Courthouse] [in all cities]","Indicates the capital city","[4] free [Tank] units appear","[2] free [Anti-Tank Gun] units appear","[1] free [Bomber] units appear","[1] free [Great General] units appear"]
         }
