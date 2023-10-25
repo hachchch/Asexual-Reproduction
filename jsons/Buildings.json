@@ -9,6 +9,6 @@
 		"cityStrength": 50,
 		"cityHealth": 800,
 		"cost": 1,
-		"uniques": ["Indicates the capital city","[9] free [Tank] units appear","[2] free [Anti-Tank Gun] units appear","[1] free [Bomber] units appear","[1] free [Great General] units appear"]
+		"uniques": ["Indicates the capital city","[4] free [Tank] units appear <after [1] turns>","[2] free [Anti-Tank Gun] units appear <after [1] turns>","[1] free [Bomber] units appear <after [5] turns>","[1] free [Great General] units appear <after [5] turns>"]
         }
 ]
