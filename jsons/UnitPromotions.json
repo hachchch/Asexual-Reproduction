@@ -1,6 +1,6 @@
 [
         {
                 "name": "Tank Uniques",
-                "uniques": ["Free [Tank] appears <upon defeating a [All] unit>"],
+                "uniques": ["Free [Tank] appears <upon defeating a [All] unit>","Heal this unit by [-50] HP <upon defeating a [All] unit>"],
         }
 ]
