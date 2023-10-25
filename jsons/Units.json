@@ -3,13 +3,25 @@
                 "name": "Anti-Tank Gun",
 		"unitType": "Gunpowder",
                 "range": 3,
-                "rangedStrength": 50,
+                "rangedStrength": 80,
 		"movement": 2,
-		"strength": 25,
+		"strength": 50,
 		"cost": 300,
 		"requiredTech": "Combined Arms",
 		"upgradesTo": "Helicopter Gunship",
 		"uniques": ["[+100]% Strength <vs [Armored] units>", "Never appears as a Barbarian unit"],
 		"attackSound": "cannon"
-        }
+        },
+	{
+		"name": "Tank",
+		"unitType": "Armored",
+		"movement": 5,
+		"strength": 100,
+		"cost": 375,
+		"requiredTech": "Combined Arms",
+		"requiredResource": "Oil",
+		"upgradesTo": "Modern Armor",
+		"uniques": ["Can move after attacking","Never appears as a Barbarian unit"],
+		"attackSound": "tankshot"
+	},
 ]
