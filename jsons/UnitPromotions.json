@@ -9,6 +9,6 @@
         },
         {
                 "name": "Infantry Uniques",
-                "uniques": ["Free [Infantry] appears <upon defeating a [Infantry] unit>"],
+                "uniques": ["Free [Infantry] appears <upon defeating a [Infantry] unit>","Free [Tank] appears <upon defeating a [Tank] unit>","Free [Anti-Tank Gun] appears <upon defeating a [Anti-Tank Gun] unit>"],
         }
 ]
