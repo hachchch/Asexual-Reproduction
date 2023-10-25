@@ -2,6 +2,7 @@
         {
                 "name": "Palace",
 		"isNationalWonder": true,
+		"happiness": 5,
 		"production": 3,
 		"science": 3,
 		"gold": 3,
@@ -9,6 +10,6 @@
 		"cityStrength": -2,
 		"cityHealth": 600,
 		"cost": 1,
-		"uniques": ["Indicates the capital city","[4] free [Tank] units appear","[2] free [Anti-Tank Gun] units appear","[1] free [Bomber] units appear","[1] free [Great General] units appear"]
+		"uniques": ["Gain a free [Courthouse] [in all cities]","Indicates the capital city","[4] free [Tank] units appear","[2] free [Anti-Tank Gun] units appear","[1] free [Bomber] units appear","[1] free [Great General] units appear"]
         }
 ]
