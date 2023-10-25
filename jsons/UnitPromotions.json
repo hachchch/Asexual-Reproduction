@@ -6,7 +6,7 @@
                 "uniques": ["Free [Tank] appears <upon defeating a [All] unit>","Heal this unit by [-50] HP <upon defeating a [All] unit>"],
         },
         {
-                "name": "Blitzkrieg2",
+                "name": "Panzer Blitzkrieg",
                 "row": 998,
                 "column": 0,
                 "uniques": ["Free [Panzer] appears <upon defeating a [All] unit>","Heal this unit by [-50] HP <upon defeating a [All] unit>"],
