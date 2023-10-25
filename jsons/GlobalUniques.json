@@ -1,4 +1,4 @@
 {
         "name": "Tank System",
-        "uniques": ["[Tank] units gain the [Blitzkrieg] promotion","[Panzer] units gain the [Blitzkrieg2] promotion"]
+        "uniques": ["[Tank] units gain the [Blitzkrieg] promotion","[Panzer] units gain the [Panzer Blitzkrieg] promotion"]
 }
